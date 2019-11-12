@@ -1,0 +1,38 @@
+redirects:
+
+  - to: civictech.ca
+    from: toronto.civictech.ca
+
+  - to: ottawacivictech.ca
+    from:
+      - ottawa.civictech.ca
+      - yow.civictech.ca
+
+  - to: betacity.ca
+    from:
+      - edmonton.civictech.ca
+      - yeg.civictech.ca
+
+  - to: civictechlondon.ca
+    from:
+      - london.civictech.ca
+
+  - to: civictechwr.org
+    from:
+      - wr.civictech.ca
+      - waterloo.civictech.ca
+
+  - to: civictechfredericton.com
+    from:
+      - fredericton.civictech.ca
+      - freddy.civictech.ca
+
+  - to: https://www.meetup.com/Civic-Tech-Vancouver/
+    from:
+      - vancouver.civictech.ca
+      - yvr.civictech.ca
+
+  - to: https://www.meetup.com/CivicTechYYC-Tech-for-Good/
+    from:
+      - yyc.civictech.ca
+      - calgary.civictech.ca
